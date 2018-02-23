@@ -1,0 +1,3 @@
+interface ISparkDataResult{
+    error() : string
+}
